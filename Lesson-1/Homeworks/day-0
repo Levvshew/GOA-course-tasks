@@ -1,0 +1,21 @@
+from turtle import *
+print("Hello World, Today Im going to introduct you the most important personal information about me")
+input("This time I will include in this announce and my describer information outline my aspirations and professional side. ok? ")
+Name = "Levan"
+Second_Name = "Shewiruli"
+Nickname = "Shew"
+Height = 1,80
+Weight = 53,3
+Telephone_Number = "nope"
+Body_skin = "Light brown"
+Hobby1 = "Basketball"
+Hobby2 = "Coding"
+Hobby3 = "Languages"
+print(f"Here is all kind of personal and professional the most important information about me: First Name - {Name}, Second Name - {Second_Name}, Nickname - {Nickname}, Height - {Height} meters, Weight - {Weight}kgs, Telephone Number - {Telephone_Number}." + " " + "About Profession: " + Hobby1 +", " + Hobby2 + " and " + Hobby3)
+answer = input("How will you describe me with one word? ")
+if answer[0] == "G":
+    print("Thanks")
+elif answer[0] == "N":
+    print("Hehe")
+else:
+    print("mm")
