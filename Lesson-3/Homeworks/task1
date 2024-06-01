@@ -1,0 +1,14 @@
+letter1 = "G"
+letter2 = "O"
+letter3 = "A"
+sentence_1 = '''I have just started...
+studying... 
+in'''
+num_1 = 225
+num_2 = 100
+num_3 = 5
+num_4 = 123
+load = 33
+load2 = load
+print(sentence_1 + " " + letter1 + letter2 + letter3 + "/end/")
+print(round(((num_1 % num_2 + num_3) ** num_3) // num_4) + 33)

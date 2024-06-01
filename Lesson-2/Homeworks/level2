@@ -1,0 +1,8 @@
+from turtle import *
+name_1 = "შალვა შუბითიძე"
+name_2 = "გიორგი კუპატაძე"
+name_3 = "ანდრია ჯანჯულია"
+name_4 = "ანდრია ფარცვანია"
+name_5 = "ნიკოლოზ კობახიძე"
+print("The amount of number of friends I have acquired, gained, received, gathered, increased, raised, introduced and generated during the time Im studying coding and programming in GOA secondary school: " + name_1 + " " + name_2 + " " + name_3 + " " + name_4 + " and " + name_5)
+

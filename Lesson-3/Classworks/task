@@ -1,0 +1,45 @@
+num1 = 25
+num2 = 12
+num3 = 10.5
+print(num1 * num2)
+print(num2 * num3 / num1)
+print(num1 % num2)
+print(num3 // num2)
+print(num1 + num2)
+print(num3 - num1)
+print(num3 * num2)
+print(num2 * num3 / num1)
+print(num2 % num1)
+print(num2 // num2)
+print(num1 + num3)
+print(num2 - num3)
+print(num1 * num2)
+print(num2 * num1 / num1)
+print(num1 % num2)
+print(num1 // num1)
+print(num3 + num1)
+print(num3 - num1)
+print(num2 + num1 + num3)
+print(num3 - num1 + num3)
+print(num1 ** num2) #quadratic equation
+print(num1 // num3 + num2)
+#2) concatenate
+first = "concat"
+second = "enate"
+third = "raww"
+wor = "orks"
+print(first + second + " . " + third + " it w" + wor)
+#3)
+var1 = 12
+var2 = 12.5
+var3 = "gsdfsd"
+var4 = True
+type(var1)
+type(var2)
+type(var3)
+type(var4)
+
+
+
+
+
